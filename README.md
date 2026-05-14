@@ -1,4 +1,3 @@
-# Hall-of-Integrity
 <!DOCTYPE html>
 
 <html lang="en">
